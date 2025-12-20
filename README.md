@@ -1,8 +1,8 @@
 # Project Name
-Project sederhana : Menu Coffee shop 
+A simple project : Menu Coffee shop 
 
 ## 🎯 Project Goal
-Tujuan project ini untuk melatih kemampuan basic tentang html dan css
+The goal of this project to prectice basic html and css
 
 ## 🛠️ Tech Stack
 - HTML
